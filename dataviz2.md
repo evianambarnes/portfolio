@@ -23,3 +23,11 @@ style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau
    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
    vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
+
+### This visualization demonstrates the forecasted value and margin of error for the United States' debt to GDP ratio through 2026.
+
+# Visualization methods
+### These three visualizations depict data from the same source in very different ways. In part 1, the visualization provided by the OECD is most useful when the audience wants the most recent data compared worldwide. Part two also compares the data worldwide, but also over time. The heat map allows the audience to have a general idea of the ratio level with a quick scan of the visual. Part three focuses on one country and all data availble for the ratio levels, plus forecasts future values. As aforementioned, all three visualizations were pulled from the same dataset. This data was gathered from the Organization for Economic Co-operation and Development (OECD) website. Additional citation and source information can be found in the caption of each visual.
+
+### The U.S. debt to GDP ratio I created is meant to alarm the audience of the forecasted increase over the next few years. I used red as the main color in my graph to trigger a warning response from the audience. There is a marker line of light grey through the point where the debt to GDP ratio crossed 100%. This line helps show viewers that the U.S. has struggled to recover the ratio since the 2008 global financial crisis. 
+
