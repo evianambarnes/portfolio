@@ -23,6 +23,7 @@ var scriptElement = document.createElement('script');
 scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';  
 vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
+
 I changed the women's pay to red, a color both signifiying alarm and is heavily present on both teams' uniforms. The title helps the reader use their eye travel to watch how the gap grows as you read the visualization from left to right, and makes it clear that we are looking at US data. I feel comfortable with my visualization now, I'm proud of it. This process was frustrating, humbling, and rewarding. 
 
 ## Concluding Thoughts
