@@ -14,26 +14,46 @@ I began with some sketches of potential visualizations that would emphasize the 
  My participant (student, late 20s) was not very familiar with soccer. But, they quickly identified this was a comparison of pay. The most constructive feedback from this student came when they asked, "What does the sum of these values mean?" Unfortunately, my answer was, "nothing." I hadn't realized that my stacked bars were summing. I was attempting to create the visualization in a way that layered the bars on one another, not summed them. The sum of each gender's average earnings at each phase is a useless value. When I talked to my second participant (adult, early 50s), they immediately thought this model involved costs and expesnes of World Cup participation. When I asked why, they said the colors made them think that. These two pieces of feedback sent me back to the drawing board. After this conversation, I felt like I had taken three steps forward and two steps back. I knew I was on the right track, but had some more refining to do. While this felt like the most critical takeaways from my conversations, below is a rough transcript of each interview for this round of review:
  ### Participant 1: student, late 20s
  Q: Can you tell me what you think this is?
+ 
  A: It looks like a wage comparison.
+ 
  Q: Can you describe to me what this is telling you?
+ 
  A: How low the pay of the red group is compared to the pay of the green group.
+ 
  Q: Is there anything you find surprising or confusing?
+ 
  A: I'm not following what the meaning is of the two bars summed together, and I understand this is about soccer, but I feel like I'm missing something.
+ 
  Q: Who do you think is the intended audience for this?
+ 
  A: Probably policy makers, or a committee in charge of equitable pay.
+ 
  Q: Is there anything you would change or do differently?
+ 
  A: I would note what the sum means, and add a meaningful title.
+ 
 ### Participant 2: adult, early 50s
  Q: Can you tell me what you think this is?
+ 
  A: I see information on the world cup, and it seems like this is maybe a cost breakdown, or income and expense comparison.
+ 
  Q: Can you describe to me what this is telling you?
+ 
  A: I see now on the y-axis there is information about average income per player, but I'm not sure what the two groupings of color are telling me.
+ 
  Q: Is there anything you find surprising or confusing?
+ 
  A: I'm confused by the two groups of color, I don't know what they represent. 
+ 
  Q: Who do you think is the intended audience for this?
+ 
  A: Maybe FIFA?
+ 
  Q: Is there anything you would change or do differently?
+ 
  A: I think the two groups need explicit labels
+ 
 ## Feedback 2
 After spending some time working on getting the height of the bar at the male players' pay, not the sum of the values, I realized this still might not be the best way to show the pay gap. After all, my main goal in redesign was to emphasize the **gap**. So, I moved towards a bar chart that would display the pay levels in separate bars, but right next to each other in each world cup phase. When I felt ready, I sought out feedback on this visualization: ![image](https://github.com/evianambarnes/portfolio/assets/156966766/6cf7deff-22d4-4b38-aed2-1784b227a8c8)
 One participant (adult, early 50s) was able to very quickly recognize exactly what I was showing. They said, "The eye is drawn to the blue, emphasizing how low women's pay is." My other participant (student, late 20s) asked if this was an international average. This question led me to revisit my title to make it more specific. This feedback was helpful, and I was glad I chose grey for men's pay, but I still felt I could elicit a more emotional response. Here is a rough transcript of each interview for this round of review:
