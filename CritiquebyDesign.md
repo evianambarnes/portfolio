@@ -1,3 +1,5 @@
+# Critique By Design: February 6th, 2024
+
 # Original visualization: the $730,000 gender pay gap in US World Cup bonuses
 https://www.theguardian.com/football/ng-interactive/2019/jun/28/revealed-the-731003-gender-pay-gap-in-us-world-cup-bonuses
 
