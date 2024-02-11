@@ -9,7 +9,7 @@ My job after graduation requires creating reports that convey the effectiveness 
 2. [Critique by Design](/CritiquebyDesign.md)
 3. Final Project:
    
-   a. Part 1
+   a. [Part 1](/Final_project_EvianaBarnes1.md)
    
    b. Part 2
    
