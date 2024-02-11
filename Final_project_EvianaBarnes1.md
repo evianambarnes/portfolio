@@ -20,9 +20,9 @@ I believe it would be most impactful for my project to start at a national level
 Text here...
 
 # The data
-> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
 
-Text here...
+My data is pulled from census data collected between 2019 and 2021. I have found data on number of households in each county in West Virginia, number of households without internet access in each county in West Virginia, number of households in each county nationwide, and number of households without internet access in each county nationwide. Additionally, I found how internet access in West Virginia has increased over the last five years. I'm not sure if I will need this last piece of data, but I figured it would be good to have it on hand for now. I plan on using the data to create a map of the US that utilizes a color scheme that shows where internet access is lacking. Then I would like to create a map of West Virginia using the same method and medium. I might end the story with how internet access has been increasing in West Virginia over time. I will be finishing the story with a call to action. I still need to research broadband advocacy initiatives to find opportunities best tailored for my mission and audience.
+
 
 > A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first.
 >
