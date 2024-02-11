@@ -46,9 +46,9 @@ My data is pulled from census data collected between 2019 and 2021. I have found
 |------|-----|-------------|
 |Households|[Link to Data](https://www.datacommons.org/tools/visualization#visType%3Dmap%26place%3DgeoId%2F54%26placeType%3DCounty%26sv%3D%7B%22dcid%22%3A%22Count_Household%22%7D)|Count of West Virginia Households by County|
 |Count of Households: No Internet Access|[Link to Data](https://www.datacommons.org/tools/visualization#visType%3Dmap%26place%3DgeoId%2F54%26placeType%3DCounty%26sv%3D%7B%22dcid%22%3A%22Count_Household_NoInternetAccess%22%7D)|Count of West Virginia Households without Internet Access by County|
-|      |     |Count of Nationwide Households by County|
-|      |     |Count of Nationwide Households without Internet Access by County|
-|Count of Household: No Internet Access|[Link to Data](https://www.datacommons.org/tools/visualization#visType%3Dtimeline%26place%3DgeoId%2F54%26sv%3D%7B%22dcid%22%3A%22Count_Household_NoInternetAccess%22%7D)|Count of WV Households without Internet Access 2017-2021|
+|Households (2019-2021)|[Link to Data](https://www.datacommons.org/tools/visualization#visType%3Dmap%26place%3Dcountry%2FUSA%26placeType%3DCounty%26sv%3D%7B%22dcid%22%3A%22Count_Household%22%7D)|Count of Nationwide Households by County|
+|Count of Households: No Internet Access|[Link to Data](https://www.datacommons.org/tools/visualization#visType%3Dmap%26place%3Dcountry%2FUSA%26placeType%3DCounty%26sv%3D%7B%22dcid%22%3A%22Count_Household_NoInternetAccess%22%7D) |Count of Nationwide Households without Internet Access by County|
+|Count of Households: No Internet Access|[Link to Data](https://www.datacommons.org/tools/visualization#visType%3Dtimeline%26place%3DgeoId%2F54%26sv%3D%7B%22dcid%22%3A%22Count_Household_NoInternetAccess%22%7D)|Count of WV Households without Internet Access 2017-2021|
 
 # Method and medium
 
