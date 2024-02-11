@@ -42,22 +42,13 @@ The last part of my story is a call to action. I don't think a major visualizati
 My data is pulled from census data collected between 2019 and 2021. I have found data on number of households in each county in West Virginia, number of households without internet access in each county in West Virginia, number of households in each county nationwide, and number of households without internet access in each county nationwide. Additionally, I found how internet access in West Virginia has increased over the last five years. I'm not sure if I will need this last piece of data, but I figured it would be good to have it on hand for now. I plan on using the data to create a map of the US that utilizes a color scheme that shows where internet access is lacking. Then I would like to create a map of West Virginia using the same method and medium. I might end the story with how internet access has been increasing in West Virginia over time. I will be finishing the story with a call to action. I still need to research broadband advocacy initiatives to find opportunities best tailored for my mission and audience.
 
 
-> A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first.
->
-
-
-I'm not sure what links to put for the data
-https://www.census.gov/programs-surveys/acs/data/data-via-ftp.html
-https://www.datacommons.org/tools/visualization#visType%3Dmap%26place%3DgeoId%2F54%26placeType%3DCounty%26sv%3D%7B%22dcid%22%3A%22Count_Household_NoInternetAccess%22%7D
-https://www.datacommons.org/tools/visualization#visType%3Dmap%26place%3DgeoId%2F54%26placeType%3DCounty%26sv%3D%7B%22dcid%22%3A%22Count_Household%22%7D
-https://www.datacommons.org/tools/visualization#visType%3Dtimeline%26place%3DgeoId%2F54%26sv%3D%7B%22dcid%22%3A%22Count_Household_NoInternetAccess%22%7D
-
 | Name | URL | Description |
 |------|-----|-------------|
-|      |     |Count of West Virginia Households by County|
+|Households|[Link to Data](https://www.datacommons.org/tools/visualization#visType%3Dmap%26place%3DgeoId%2F54%26placeType%3DCounty%26sv%3D%7B%22dcid%22%3A%22Count_Household%22%7D)|Count of West Virginia Households by County|
 |Count of Households: No Internet Access|[Link to Data](https://www.datacommons.org/tools/visualization#visType%3Dmap%26place%3DgeoId%2F54%26placeType%3DCounty%26sv%3D%7B%22dcid%22%3A%22Count_Household_NoInternetAccess%22%7D)|Count of West Virginia Households without Internet Access by County|
 |      |     |Count of Nationwide Households by County|
 |      |     |Count of Nationwide Households without Internet Access by County|
+|Count of Household: No Internet Access|[Link to Data](https://www.datacommons.org/tools/visualization#visType%3Dtimeline%26place%3DgeoId%2F54%26sv%3D%7B%22dcid%22%3A%22Count_Household_NoInternetAccess%22%7D)|Count of WV Households without Internet Access 2017-2021|
 
 # Method and medium
 
