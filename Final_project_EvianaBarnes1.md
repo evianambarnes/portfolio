@@ -17,15 +17,18 @@ I believe it would be most impactful for my project to start at a national level
 ## Initial sketches
 
 The first image in my story is a US map with data on levels of internet access by county with nationwide data. 
-Header: Percent of Households without Internet Access in the US by County
+
+**Header**: Percent of Households without Internet Access in the US by County
 ![Visualization 1](https://github.com/evianambarnes/portfolio/assets/156966766/8145311d-3115-4988-ae2f-f0095dacb782)
 
 Then I will keep everything the same for my second visualization, except the only color of the visualization will be counties with over 20% of households lacking internet access. I may also add in a text box on this visualization about the states or areas with the least access to internet.
-Header: Counties in the US with More Than 20% of Households Lacking Internet Access
+
+**Header**: Counties in the US with More Than 20% of Households Lacking Internet Access
 ![Visualization 2](https://github.com/evianambarnes/portfolio/assets/156966766/17f36ceb-1cb6-4bc8-8a7c-b84acab63c4c)
 
 Then we will move to West Virginia level data. I will use the same colors, but update the scale bar.
-Header: Percent of Households without Internet Access in West Virginia by County
+
+**Header**: Percent of Households without Internet Access in West Virginia by County
 ![Visualization 3](https://github.com/evianambarnes/portfolio/assets/156966766/b79ab5ff-50e8-41ba-9048-1a5f50b1c292)
 
 Next I will create either a dashboard or table of a sort to show how West Virginia compares nationally by the number. I will emphasize that 40% of counties in West Virginia have more than 1/5 households without internet access. Nationwide, only 27% of counties have more than 1/5 households without internet access. 
