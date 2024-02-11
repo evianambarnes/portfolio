@@ -7,4 +7,7 @@ My job after graduation requires creating reports that convey the effectiveness 
 # Projects!
 1. [Data Visualization #2](/dataviz2.md)
 2. [Critique by Design](/CritiquebyDesign.md)
-3. Final Project
+3. Final Project:
+   a. Part 1
+   b. Part 2
+   c. Part 3
