@@ -11,6 +11,6 @@ My job after graduation requires creating reports that convey the effectiveness 
    
    a. [Part 1](/Final_project_EvianaBarnes1.md)
    
-   b. Part 2
+   b. [Part 2](/final_project_pt_2.md)
    
    c. Part 3
