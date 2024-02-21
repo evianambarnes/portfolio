@@ -1,5 +1,5 @@
-| [home page](https://evianambarnes.github.io/portfolio/) | [visualizing debt]() | [critique by design](dataviz2.md) | [final project I](Final_project_EvianaBarnes1.md) | [final project II](final_project_pt_2.md) | final project III |
-# Critique By Design
+| [home page](https://evianambarnes.github.io/portfolio/) | [visualizing debt](dataviz2.md) | [critique by design](CritiquebyDesign.md) | [final project I](Final_project_EvianaBarnes1.md) | [final project II](final_project_pt_2.md) | final project III |
+# Visualizing Debt
 # Part 1
    <iframe src="https://data.oecd.org/chart/7kqF" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/7kqF" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2022</a></iframe>
 
