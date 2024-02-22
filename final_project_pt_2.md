@@ -1,8 +1,7 @@
 | [home page](https://evianambarnes.github.io/portfolio/) | [visualizing debt](dataviz2.md) | [critique by design](CritiquebyDesign.md) | [final project I](Final_project_EvianaBarnes1.md) | [final project II](final_project_pt_2.md) | final project III |
 
 # Final Project Part 2
-# Wireframes / storyboards
-> Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project. 
+# Storyboard
 
 During this phase of the final project I really wanted to focus on making my story arc more impactful. To kick off the set up, I decided to realte to the audience through my introduction by reminding the viewers just how often we all use the internet. I researched some statistics here to drive the point home. The data is from credible and well known sources like statista and Pew Research Center. Next I moved towards the conflict: how low internet access is in West Virginia. Originally, I had pictured my story utilizing a chloropleth map of the lower 48 showing broadband access, but once I played around with the data, I realized that this would be an overwhelming visual that doesn't do much to aid my narrative. Instead, to show how West Virginia compares to the nation, I decided to create a bar graph showing the percent of counties in West Virginia where more than 20% of households do not have internet compared to the nationwide statistic of percent of counties where more than 20% of households do not have internet. Below is the visualization I created in Data Wrapper.
 
@@ -34,9 +33,7 @@ The last section of my presentation focuses on resolution, or a call to action. 
 # User research 
 
 ## Target audience
-> Include your approach to identifying representative individuals, and who you hope to reach with your story. 
-
-Text here!
+I believe my target audience is multi-faceted. On the one hand, this could be shown to legislators so they understand how detrimental it is for rural communities to not have internet access. Additionally, the target audience could be West Virginians living in counties with the highest percentages of internet access by household. These residents could be inspired by my presentation to make sure they elect politicians who prioritize broadband expansion. I think that residents of the counties with better internet access would be shocked to learn just how many of their neighboring counties do not have access. West Virginians are known for having a deep sense of loyalty and kindness towards one another, so I believe this presentation could evoke an emotional reaction from them. My presentation also speaks to people in metropolitan areas in neighboring states. By zooming in on Wetzel county, I am humanizing the data for Pittsburgh residents, since Wetzel County is only a two hour drive away.
 
 ## Interview script
 > List the goals from your research, and the questions you intend to ask. 
