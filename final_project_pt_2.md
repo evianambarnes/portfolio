@@ -14,7 +14,7 @@ During this phase of the final project I really wanted to focus on making my sto
 I chose these colors because this green creates a feel of technology. I pulled the color directly from the visual I am using as my cover image for my shorthand. 
 The main feedback I received from my user research was to add information on why West Virginia's broadband is so low. So after presenting the data comparing West Virginia to national data, I added in some information about the two main reasons behind the lack of internet access in West Virginia: lack of service providers and terrain. Next I wanted to keep zooming in and look at the data on a county level. Here is where I made a chloropleth map of West Virginia showing the percent of households without internet access in each county. I stuck with the same color scheme of greens for this map. I made the map in ArcGIS and it is pictured below.
 
-[Internet Access by West Virginia County]<img width="248" alt="fff" src="https://github.com/evianambarnes/portfolio/assets/156966766/d8c088e4-afb5-421e-96c6-7372033d5edf">
+![Internet Access by West Virginia County]<img width="248" alt="fff" src="https://github.com/evianambarnes/portfolio/assets/156966766/d8c088e4-afb5-421e-96c6-7372033d5edf">
 
 
 Then I manipulated the same map to emphasize the 22 counties where more than 20% of households do not have internet access. I did this by greying out all other counties and keeping the low internet access counties green. The second map can be seen here.
