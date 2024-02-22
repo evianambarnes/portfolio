@@ -58,15 +58,19 @@ Text here!
 
 | Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
-|                         |                                |             |             |
-|                         |                                |             |             |
+|What is the message of this presentation?|            |             |             |
+|Who do you believe is the target audience?|                                |             |             |
+|Was there anything that confused you?|                                |             |             |
+|How did you feel after viewing these materials?|                                |             |             |
+|Which visualization is the most impactful? Why?|                                |             |             |
+|Which visualization is the least impactful? Why?|                                |             |             |
+|Is there anything you would change?|                                |             |             |
 
 
 # Identified changes for Part III
 > Document the changes you plan on implementing next week to address any issues identified.  
 
-Text here!
+1. I want to make the first data visualization embedded instead of used as an image. I think it makes the shorthand more professional, intriguing, and interactive
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
