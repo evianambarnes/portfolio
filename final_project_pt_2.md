@@ -37,19 +37,19 @@ Click [here](https://carnegiemellon.shorthandstories.com/internet-access-in-west
 ## Target audience
 I believe my target audience is multi-faceted. On the one hand, this could be shown to legislators so they understand how detrimental it is for rural communities to not have internet access. Additionally, the target audience could be West Virginians living in counties with the highest percentages of internet access by household. These residents could be inspired by my presentation to make sure they elect politicians who prioritize broadband expansion. I think that residents of the counties with better internet access would be shocked to learn just how many of their neighboring counties do not have access. West Virginians are known for having a deep sense of loyalty and kindness towards one another, so I believe this presentation could evoke an emotional reaction from them. My presentation also speaks to people in metropolitan areas in neighboring states. By zooming in on Wetzel county, I am humanizing the data for Pittsburgh residents, since Wetzel County is only a two hour drive away.
 
+## Interviewees
+I decided to interview a West Virginia resident, a new Pittsburgh resident, and someone who has lived in Pittsburgh most of their life for my user research. I think these people were good choices because they represent different demographics from my target audience. I want to see if the presentation resonates with each of them. I am especially interested in hearing from the person who is new to Pittsburgh, to see if I can make them feel pulled to act on this cause since they do not have ties to the area. 
+
 ## Interview script
-> List the goals from your research, and the questions you intend to ask. 
-
-Text here!
-
 | Goal | Questions to Ask |
 |------|------------------|
-|      |                  |
-|      |                  |
-|      |                  |
-
-
-Text here!
+|Feedback on Clarity|What is the message of this presentation?|
+|Feedback on Clarity|Who do you believe is the target audience?|
+|Feedback on Clarity|Was there anything that confused you?|
+|Create Urgency and Emotion|How did you feel after viewing these materials?|
+|Enhancing Visuals|Which visualization is the most impactful? Why?|
+|Enhancing Visuals|Which visualization is the least impactful? Why?|
+|Feedback on Overall Impact|Is there anything you would change?|
 
 ## Interview findings
 > Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
