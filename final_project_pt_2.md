@@ -30,6 +30,8 @@ I decided to keep zooming in to humanize the data set. I researched education, e
 
 The last section of my presentation focuses on resolution, or a call to action. First the audience is presented with action items they can take to advocate for broadband expansion. Then I provided resources for West Virginia residents to test their wifi speed and find free wifi stations near them.
 
+Click [here](https://carnegiemellon.shorthandstories.com/internet-access-in-west-virginia/index.html) for a link to my shorthand draft that supports this narrative.
+
 # User research 
 
 ## Target audience
