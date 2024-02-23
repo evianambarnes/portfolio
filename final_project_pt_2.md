@@ -59,28 +59,20 @@ Interview 3: late 20s, recent Pittsburgh resident
 
 | Questions               | Interview 1 | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
-|What is the message of this presentation?|Access to broadband increases access to resources that can enhance a person's life educationally and professionally.|             | West Virginia has bad access to internet|
-|Who do you believe is the target audience?|Government officials.|             |Policy Makers and West Virginians|
-|Was there anything that confused you?|The 1 in 5 stat was throwing me, I'm better with percentages.|             |I thought it was random to bring up Wetzel County until I saw the rest of it. I was confused by why the comparison was to Allegheny all of a sudden. I would have thought a comparison to the county with the most broadband in the country or a county in WV with high broadband access would be the natural next step.|
-|How did you feel after viewing these materials?|frustrated and sad|             |disappointed that policy makers dont think its important to ensure broadband everywhere in the US.|
-|Which visualization is the most impactful? Why?|the first map|             |Less than 20% and more than 20% of households lacking internet access|
-|Which visualization is the least impactful? Why?|all were impactful|             |I think the first visualization is the least impactful because it doesnt look like a huge gap comparing 27 to 40 -- I think the scale could convey the difference better.|
-|Is there anything you would change?|the visualization titles could be clearer|             |I would add some context for why Wetzel County is the one you are focusing on before you mention the "living in a different world" part. I would also add context on why the comparison is to Allegheny County|
+|What is the message of this presentation?|Access to broadband increases access to resources that can enhance a person's life educationally and professionally.|Internet access is important for economic growth & development (poverty reduction) and americans rely on internet for daily activities, but WV is disproportionately without internet access.| West Virginia has bad access to internet|
+|Who do you believe is the target audience?|Government officials.|Policy-interested people especially in appalachia, anti-poverty advocates, consumers (internet users in and around WV/appalachia)|Policy Makers and West Virginians.|
+|Was there anything that confused you?|The 1 in 5 stat was throwing me, I'm better with percentages.|Nope, it was very straightforward and easy to understand.|I thought it was random to bring up Wetzel County until I saw the rest of it. I was confused by why the comparison was to Allegheny all of a sudden. I would have thought a comparison to the county with the most broadband in the country or a county in WV with high broadband access would be the natural next step.|
+|How did you feel after viewing these materials?|Frustrated and sad|Surprised that internet access was so low, grateful i have lived in places with good connectivity, and hopeful that things will change in terms of getting better broadband infrastructure to more rural and disconnected areas.|Disappointed that policy makers dont think its important to ensure broadband everywhere in the US.|
+|Which visualization is the most impactful? Why?|The first map|The map showing internet access by county was useful, especially with the context of distance from major universities like proximity to WVU and Pittsburgh universities.|Less than 20% and more than 20% of households lacking internet access|
+|Which visualization is the least impactful? Why?|All were impactful.|None.|I think the first visualization is the least impactful because it doesnt look like a huge gap comparing 27 to 40 -- I think the scale could convey the difference better.|
+|Is there anything you would change?|The visualization titles could be clearer.|There's room to dig a bit deeper into why West Virginia has such low connectivity.|I would add some context for why Wetzel County is the one you are focusing on before you mention the "living in a different world" part. I would also add context on why the comparison is to Allegheny County|
 
 
 # Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
 
-1. I want to make the first data visualization embedded instead of used as an image. I think it makes the shorthand more professional, intriguing, and interactive
+1. I want to make the first data visualization embedded instead of used as an image. I think it makes the shorthand more professional, intriguing, and interactive.
+2. In all of my interviews, the participants believed there could be stronger titles for visualizations, so I want to work on making my titles shorter, but impactful.
+3. I think it will be useful to add more context in the Wetzel County zoom in for people not familiar with the area. I will add more text to this section of my shorthand so the comparison is more clear.
+4. I want to add some more strength to my data on the reasons behind West Virginia's low connectivity.
 
-| Research synthesis                       | Anticipated changes for Part III                                                |
-|------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
 
-> ...include any final thoughts you have here. 
-
-Text here!
