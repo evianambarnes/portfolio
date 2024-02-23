@@ -45,15 +45,16 @@ Interview 2: late 20s, long-time Pittsburgh resident
 Interview 3: late 20s, recent Pittsburgh resident
 
 ## Interview script
+
 | Goal | Questions to Ask |
 |------|------------------|
-| Feedback on Clarity | What is the message of this presentation?|
-| Feedback on Clarity | Who do you believe is the target audience?|
-| Feedback on Clarity | Was there anything that confused you?|
-| Create Urgency and Emotion | How did you feel after viewing these materials?|
-| Enhancing Visuals | Which visualization is the most impactful? Why?|
-| Enhancing Visuals | Which visualization is the least impactful? Why?|
-| Feedback on Overall Impact | Is there anything you would change?|
+|Feedback on Clarity|What is the message of this presentation?|
+|Feedback on Clarity|Who do you believe is the target audience?|
+|Feedback on Clarity|Was there anything that confused you?|
+|Create Urgency and Emotion|How did you feel after viewing these materials?|
+|Enhancing Visuals|Which visualization is the most impactful? Why?|
+|Enhancing Visuals|Which visualization is the least impactful? Why?|
+|Feedback on Overall Impact|Is there anything you would change?|
 
 ## Interview findings
 
