@@ -40,6 +40,10 @@ I believe my target audience is multi-faceted. On the one hand, this could be sh
 ## Interviewees
 I decided to interview a West Virginia resident, a new Pittsburgh resident, and someone who has lived in Pittsburgh most of their life for my user research. I think these people were good choices because they represent different demographics from my target audience. I want to see if the presentation resonates with each of them. I am especially interested in hearing from the person who is new to Pittsburgh, to see if I can make them feel pulled to act on this cause since they do not have ties to the area. 
 
+Interview 1: early 50s, long-time West Virginia resident
+Interview 2: late 20s, long-time Pittsburgh resident
+Interview 3: late 20s, recent Pittsburgh resident
+
 ## Interview script
 | Goal | Questions to Ask |
 |------|------------------|
@@ -52,19 +56,16 @@ I decided to interview a West Virginia resident, a new Pittsburgh resident, and 
 | Feedback on Overall Impact | Is there anything you would change?|
 
 ## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
 
-Text here!
-
-| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
+| Questions               | Interview 1 | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
-|What is the message of this presentation?|            |             |             |
-|Who do you believe is the target audience?|                                |             |             |
-|Was there anything that confused you?|                                |             |             |
-|How did you feel after viewing these materials?|                                |             |             |
-|Which visualization is the most impactful? Why?|                                |             |             |
-|Which visualization is the least impactful? Why?|                                |             |             |
-|Is there anything you would change?|                                |             |             |
+|What is the message of this presentation?|Access to broadband increases access to resources that can enhance a person's life educationally and professionally.|             | West Virginia has bad access to internet|
+|Who do you believe is the target audience?|Government officials.|             |Policy Makers and West Virginians|
+|Was there anything that confused you?|The 1 in 5 stat was throwing me, I'm better with percentages.|             |I thought it was random to bring up Wetzel County until I saw the rest of it. I was confused by why the comparison was to Allegheny all of a sudden. I would have thought a comparison to the county with the most broadband in the country or a county in WV with high broadband access would be the natural next step.|
+|How did you feel after viewing these materials?|frustrated and sad|             |disappointed that policy makers dont think its important to ensure broadband everywhere in the US.|
+|Which visualization is the most impactful? Why?|the first map|             |Less than 20% and more than 20% of households lacking internet access|
+|Which visualization is the least impactful? Why?|all were impactful|             |I think the first visualization is the least impactful because it doesnt look like a huge gap comparing 27 to 40 -- I think the scale could convey the difference better.|
+|Is there anything you would change?|the visualization titles could be clearer|             |I would add some context for why Wetzel County is the one you are focusing on before you mention the "living in a different world" part. I would also add context on why the comparison is to Allegheny County|
 
 
 # Identified changes for Part III
