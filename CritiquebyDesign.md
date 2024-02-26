@@ -1,4 +1,4 @@
-| [home page](https://evianambarnes.github.io/portfolio/) | [visualizing debt](dataviz2.md) | [critique by design](CritiquebyDesign.md) | [final project I](Final_project_EvianaBarnes1.md) | [final project II](final_project_pt_2.md) | final project III |
+| [home page](https://evianambarnes.github.io/portfolio/) | [visualizing debt](dataviz2.md) | [critique by design](CritiquebyDesign.md) | [final project I](Final_project_EvianaBarnes1.md) | [final project II](final_project_pt_2.md) | [final project III](finalproject3.md) |
 
 # Critique By Design: February 6th, 2024
 
