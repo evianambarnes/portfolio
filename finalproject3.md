@@ -1,9 +1,9 @@
 | [home page](https://evianambarnes.github.io/portfolio/) | [visualizing debt](dataviz2.md) | [critique by design](CritiquebyDesign.md) | [final project I](Final_project_EvianaBarnes1.md) | [final project II](final_project_pt_2.md) | [final project III](finalproject3.md) |
 
-# The final data story
+# The Final Data Story
 [Internet Access in West Virginia](https://carnegiemellon.shorthandstories.com/internet-access-in-west-virginia/index.html)
 
-# Changes made since Part II
+# Changes Made since Part II
 
 I was in a pretty strong place when I submitted part 2 of my final project. Therefore I had very few changes to make before submitting my final project. From my user research, the main changes I identified from these conversations were to rename my first visualization; add some more context to the background section about West Virginia's connectivity and Wetzel County specifically; and cater the call to action to all audiences. 
 
@@ -13,7 +13,7 @@ I renamed my first visualization and I think that it really helped to emphasize 
 
 ### Background Context
 
-I added some more context to the background of West Virginia's lack of internet access. In my final shorthand, I added content on how it is most often communities of the lowest education attainment, the lowest median income, and the highest ages that are offline in West Virginia. WETZEL COUNTY
+I added some more context to the background of West Virginia's lack of internet access. In my final shorthand, I added content on how it is most often communities of the lowest education attainment, the lowest median income, and the highest ages that are offline in West Virginia. I also wanted to emphasize to people more unfamiliar with the area just how close Wetzel County is to Pittsburgh. I considered adding a map of the route into my shorthand, but I believe it distracted from the presentation's message. Therefore I decided to just add more context into the text section instead.
 
 ### Call to Action
 
