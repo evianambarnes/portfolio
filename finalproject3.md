@@ -9,7 +9,7 @@ I was in a pretty strong place when I submitted part 2 of my final project. Ther
 
 ### Visualization Names
 
-I renamed my first visualization and I think that it really helped to emphasize the main points. I changed the title to "Counties with more than 1 in 5 households offline." This is both shorter than my original title and is a more impactful statement than my original name. I kept the other 3 visualizations as they were because the context panes next to them provide details describing the visual. 
+I renamed my first visualization and I think that it really helped to emphasize the main points. I changed the title to "Counties with more than 1 in 5 households offline." This is both shorter than my original title and is a more impactful statement. I kept the other 3 visualizations as they were because the context panes next to them provide details describing the visual. 
 
 ### Background Context
 
