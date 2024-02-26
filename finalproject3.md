@@ -25,9 +25,7 @@ I believe my story has 3 audiences: policymakers, advocates, and West Virginia r
 
 # Final design decisions
 
-> You can specifically break out your design decisions here, or include it under *Changes made since Part II* and delete this section. Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process.  Include any other information that helps round out your data story. 
-
-Text here!
+I had some conflicting thoughts on utilizing the neon green in my message, but I decided to stick with it. While green is often correlated with good, I think the shade of green here has more of a technology feel than the standard shades of green. 
 
 # References
 
@@ -35,8 +33,5 @@ All references are listed in the reference section of the shorthand linked in th
 
 # Final thoughts
 
-> You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
-
-Text here!
-
-
+One thing I wish I could have figured out, but didn't have time to revisit, was to embed the first visualization instead of inserting it as an image. Every time I did try embedding it, the visualizations background became transparent and therefore was difficult to follow in shorthand. 
+Overall, I believe that I did a really great job presenting this data. I am very passionate about bringing West Virginia into policy conversations. West Virginia is so often left behind, and I want to use my platform for them. I'm proud of the way this project developed.
