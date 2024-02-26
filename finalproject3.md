@@ -21,7 +21,7 @@ I additionally revisited my call to action. My story has multiple audiences, so 
 
 # Audience
 
-I believe my story has 3 audiences: policymakers, advocates, and West Virginia residents. I included policymakers because they have the strongest ability to create change in this field. Advocates are included in the discussion as well because this is the category that most viewers of my presentation fall into. West Virginia residents should also be included in the presentation as this actively affects their day to day. Since I have these 3 audiences, I also have 3 calls to action. Policymakers initiative is to pass legislation prioritizing broadband expansion. Advocates calls to action are to use their voice for those who need a platform to stand on. West Virginia residents have less of a call to action, but moreso I was hoping to provide them with resources to better their experiences with broadband.
+I believe my story has 3 audiences: policymakers, advocates, and West Virginia residents. I included policymakers because they have the strongest ability to create change in this field. Advocates are included in the discussion as well because this is the category that most viewers of my presentation fall into. West Virginia residents should also be included in the presentation as this actively affects their day to day. Since I have these 3 audiences, I also have 3 calls to action. Policymakers initiative is to pass legislation prioritizing broadband expansion. Advocates calls to action are to use their voice for those who need a platform to stand on. West Virginia residents have less of a call to action, but more so I was hoping to provide them with resources to better their experiences with broadband.
 
 # Final design decisions
 
@@ -33,5 +33,6 @@ All references are listed in the reference section of the shorthand linked in th
 
 # Final thoughts
 
-One thing I wish I could have figured out, but didn't have time to revisit, was to embed the first visualization instead of inserting it as an image. Every time I did try embedding it, the visualizations background became transparent and therefore was difficult to follow in shorthand. 
+One thing I wish I could have figured out, but didn't have time to revisit, was to embed the first visualization instead of inserting it as an image. Every time I did try embedding it, the visualizations background became transparent and therefore was difficult to follow in shorthand.
+
 Overall, I believe that I did a really great job presenting this data. I am very passionate about bringing West Virginia into policy conversations. West Virginia is so often left behind, and I want to use my platform for them. I'm proud of the way this project developed.
