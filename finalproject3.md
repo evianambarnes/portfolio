@@ -5,7 +5,7 @@
 
 # Changes Made since Part II
 
-I was in a pretty strong place when I submitted part 2 of my final project. Therefore I had very few changes to make before submitting my final project. From my user research, the main changes I identified from these conversations were to rename my first visualization; add some more context to the background section about West Virginia's connectivity and Wetzel County specifically; and cater the call to action to all audiences. 
+I was in a pretty strong place when I submitted part 2 of my final project. Therefore I had very few changes to make before submitting my final project. The main changes I identified from my user research conversations were to rename my first visualization; add some more context to the background section about West Virginia's connectivity and Wetzel County specifically; and cater the call to action to all audiences. 
 
 ### Visualization Names
 
