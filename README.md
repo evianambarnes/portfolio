@@ -15,4 +15,4 @@ My job after graduation requires creating reports that convey the effectiveness 
    
    b. [Part 2](/final_project_pt_2.md)
    
-   c. Part 3
+   c. [Part 3](/finalproject3.md)
